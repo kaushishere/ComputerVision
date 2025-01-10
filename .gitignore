@@ -398,3 +398,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# My files
+Image Recognition/DR_architecture_best_weights/
